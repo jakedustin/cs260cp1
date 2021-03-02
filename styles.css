@@ -30,6 +30,7 @@ body {
   align-items: center;
   flex-direction: column;
   overflow: hidden;
+  background-color: #dcedc1;
 }
 
 .photo {
@@ -121,10 +122,6 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-  }
-
-  .footer-block {
-    height: 100px;
   }
 }
 
